@@ -1,35 +1,65 @@
 # CyberZonic
 
-CyberZonic builds AI-native security, platform engineering, identity systems, and secure digital operations.
+CyberZonic builds AI-native enterprise intelligence, identity security, secure platform engineering, and commercial-grade automation systems.
 
 ## Mission
 
-CyberZonic exists to build serious commercial-grade platforms that combine secure engineering, intelligent automation, identity protection, operational resilience, and AI-native product intelligence.
+CyberZonic exists to build serious, secure, commercially viable technology platforms that combine intelligent automation, identity protection, operational resilience, AI-native product intelligence, and evidence-led engineering governance.
 
 ## Strategic Product Direction
 
-CyberZonic is developing a long-term ecosystem of products and platforms, including:
+CyberZonic is developing a long-term enterprise technology ecosystem across several strategic product pillars:
 
-- **VAST** Ã¢â‚¬â€ AI-native engineering and product intelligence platform.
-- **AegisVault** Ã¢â‚¬â€ enterprise-grade identity security and secure vault platform.
-- **CyberZonic Platform** Ã¢â‚¬â€ autonomy, operational intelligence, and AI-assisted platform foundation.
-- **Jalsa Digital Operations** Ã¢â‚¬â€ real-world service coordination, car pass, find-my-car, and command centre systems.
+* **VAST**: enterprise intelligence platform for AI-native engineering, product intelligence, autonomous development workflows, and commercial product evolution.
+
+* **AegisVault**: identity security platform for secure vaults, secrets, passkeys, credentials, device trust, recovery, and enterprise governance.
+
+* **CyberZonic Platform**: core autonomy, operational intelligence, agent orchestration, knowledge workflow, and AI-assisted platform foundation.
+
+* **Infrastructure and Security Baselines**: secure delivery patterns, governance standards, platform operations, repository controls, and evidence-based engineering assurance.
+
+* **Brand and Product Intelligence**: strategic naming, product doctrine, commercial positioning, visual identity, and long-term ecosystem architecture.
 
 ## Engineering Principles
 
-- Security-first by default
-- Private-by-default product development
-- Automation-first delivery
-- Documentation-led architecture
-- Evidence-based verification
-- Scalable commercial readiness
-- Long-term maintainability
-- Controlled governance and least privilege
+CyberZonic engineering is guided by:
+
+* Security-first architecture
+
+* Private-by-default product development
+
+* Automation-first delivery
+
+* Documentation-led architecture
+
+* Evidence-based verification
+
+* Controlled governance and least privilege
+
+* Commercial readiness from early design
+
+* Long-term maintainability
+
+* Scalable product and platform foundations
+
+* Clear separation between company work, client work, community work, and external project work
+
+## Governance Position
+
+This organisation is the enterprise GitHub home for CyberZonic company-owned product, platform, security, infrastructure, governance, and brand repositories.
+
+Non-CyberZonic workstreams, client projects, community projects, and external operational projects must remain outside this organisation unless formally reclassified and approved.
 
 ## Contact
 
-Security: security@cyberzonic.com  
-Engineering: engineering@cyberzonic.com  
-Support: support@cyberzonic.com  
-Trust: trust@cyberzonic.com  
-Privacy: privacy@cyberzonic.com
+* Security: [security@cyberzonic.com](mailto:security@cyberzonic.com)
+
+* Engineering: [engineering@cyberzonic.com](mailto:engineering@cyberzonic.com)
+
+* Platform: [platform@cyberzonic.com](mailto:platform@cyberzonic.com)
+
+* Trust: [trust@cyberzonic.com](mailto:trust@cyberzonic.com)
+
+* Privacy: [privacy@cyberzonic.com](mailto:privacy@cyberzonic.com)
+
+* Support: [support@cyberzonic.com](mailto:support@cyberzonic.com)
